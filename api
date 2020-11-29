@@ -1,0 +1,45 @@
+[
+        {
+        "id_product": 111,
+        "product_name": "Завтраки 280",
+        "price": 280,
+        "img": "",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+
+      },
+      {
+        "id_product": 222,
+        "product_name": "Панкейки 280",
+        "price": 280,
+        "img": "img/pancakes.JPG",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+      },
+      {
+        "id_product": 333,
+        "product_name": "Вафли 250",
+        "price": 250,
+        "img": "",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+      },
+      {
+        "id_product": 444,
+        "product_name": "Салаты 320",
+        "price": 320,
+        "img": "",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+      },
+      {
+        "id_product": 555,
+        "product_name": "Супы 320",
+        "price": 320,
+        "img": "",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+      },
+      {
+        "id_product": 666,
+        "product_name": "Пицца 380",
+        "price": 380,
+        "img": "img/pizza.JPG",
+        "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
+     }    
+]
