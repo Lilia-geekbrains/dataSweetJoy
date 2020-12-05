@@ -3,7 +3,7 @@
         "id_product": 111,
         "product_name": "Завтраки 280",
         "price": 280,
-        "img": "",
+        "img": "img/DSCF3731.jpg",
         "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
 
       },
@@ -18,21 +18,21 @@
         "id_product": 333,
         "product_name": "Вафли 250",
         "price": 250,
-        "img": "",
+        "img": "img/waffles.JPG",
         "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
       },
       {
         "id_product": 444,
         "product_name": "Салаты 320",
         "price": 320,
-        "img": "",
+        "img": "img/salad.JPG",
         "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
       },
       {
         "id_product": 555,
         "product_name": "Супы 320",
         "price": 320,
-        "img": "",
+        "img": "img/soup.JPG",
         "description": "Modi unde odio tempora, rem inventore cupiditate officiis laborum tempore vel quisquam dolores illo natus vitae, minima iste similique blanditiis error quasi."
       },
       {
